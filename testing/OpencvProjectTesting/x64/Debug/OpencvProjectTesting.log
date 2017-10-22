@@ -1,0 +1,4 @@
+﻿  OpencvProjectTesting.cpp
+c:\users\nickl\desktop\image processing mini-project\visualtesting\opencvprojecttesting\opencvprojecttesting\opencvprojecttesting.cpp(64): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\nickl\desktop\image processing mini-project\visualtesting\opencvprojecttesting\opencvprojecttesting\opencvprojecttesting.cpp(123): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  OpencvProjectTesting.vcxproj -> C:\Users\Nickl\Desktop\Image processing mini-project\visualtesting\OpencvProjectTesting\x64\Debug\OpencvProjectTesting.exe
