@@ -1,4 +1,5 @@
 ﻿  OpencvProjectTesting.cpp
-c:\users\nickl\desktop\image processing mini-project\visualtesting\opencvprojecttesting\opencvprojecttesting\opencvprojecttesting.cpp(64): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-c:\users\nickl\desktop\image processing mini-project\visualtesting\opencvprojecttesting\opencvprojecttesting\opencvprojecttesting.cpp(123): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-  OpencvProjectTesting.vcxproj -> C:\Users\Nickl\Desktop\Image processing mini-project\visualtesting\OpencvProjectTesting\x64\Debug\OpencvProjectTesting.exe
+c:\users\nickl\source\repos\imageprocessing-histogram_equalization\testing\opencvprojecttesting\opencvprojecttesting.cpp(89): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\nickl\source\repos\imageprocessing-histogram_equalization\testing\opencvprojecttesting\opencvprojecttesting.cpp(148): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  OpencvProjectTesting.vcxproj -> C:\Users\Nickl\Source\Repos\Imageprocessing-histogram_equalization\testing\x64\Debug\OpencvProjectTesting.exe
+  OpencvProjectTesting.vcxproj -> C:\Users\Nickl\Source\Repos\Imageprocessing-histogram_equalization\testing\x64\Debug\OpencvProjectTesting.pdb (Partial PDB)
