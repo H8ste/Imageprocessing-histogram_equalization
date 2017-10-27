@@ -1,5 +1,8 @@
 ﻿  OpencvProjectTesting.cpp
-c:\users\nickl\source\repos\imageprocessing-histogram_equalization\testing\opencvprojecttesting\opencvprojecttesting.cpp(89): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-c:\users\nickl\source\repos\imageprocessing-histogram_equalization\testing\opencvprojecttesting\opencvprojecttesting.cpp(148): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-  OpencvProjectTesting.vcxproj -> C:\Users\Nickl\Source\Repos\Imageprocessing-histogram_equalization\testing\x64\Debug\OpencvProjectTesting.exe
-  OpencvProjectTesting.vcxproj -> C:\Users\Nickl\Source\Repos\Imageprocessing-histogram_equalization\testing\x64\Debug\OpencvProjectTesting.pdb (Partial PDB)
+c:\users\nickl\desktop\image processing mini-project\imageprocessing-histogram_equalization\testing\opencvprojecttesting\opencvprojecttesting.cpp(49): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  Compiling...
+  Intensity.cpp
+c:\users\nickl\desktop\image processing mini-project\imageprocessing-histogram_equalization\testing\opencvprojecttesting\intensity.cpp(52): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  OpencvProjectTesting.vcxproj -> C:\Users\Nickl\Desktop\Image processing mini-project\Imageprocessing-histogram_equalization\testing\x64\Debug\OpencvProjectTesting.exe
